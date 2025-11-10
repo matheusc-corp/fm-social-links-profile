@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/resolved-social-links-challenged-with-html-and-css-rEE2z9ppt8](https://www.frontendmentor.io/solutions/resolved-social-links-challenged-with-html-and-css-rEE2z9ppt8)
+- Live Site URL: [https://matheusc-corp.github.io/fm-social-links-profile/](https://matheusc-corp.github.io/fm-social-links-profile/)
 
 ## My process
 
